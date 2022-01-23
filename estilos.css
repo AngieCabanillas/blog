@@ -13,3 +13,8 @@ body{
     padding: 1em;
     text-align: left;
 }
+
+#cabecera{
+    border: solid 5px ;
+    background-color: blueviolet;
+}
