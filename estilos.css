@@ -15,10 +15,6 @@ body{
     text-align: left;
 }
 
-#container h1{
-    font-size: 20px;
-}
-
 #cabecera{
     border: solid 5px ;
     background-color: blueviolet;
