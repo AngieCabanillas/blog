@@ -1,6 +1,7 @@
 body{
     text-align: center;
     color: black;
+    font-family: "Courier";
     margin: 0;
     padding: 0;
 
@@ -12,4 +13,8 @@ body{
     margin: 0 auto;
     padding: 1em;
     text-align: left;
+}
+
+#container h1{
+    font-size: 20px;
 }
